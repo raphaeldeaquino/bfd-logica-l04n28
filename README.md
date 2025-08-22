@@ -13,9 +13,9 @@
 
 # Exercício - Lógica de Programação com Python
 
-## Lista 03 - Exercício 05
+## Lista 04 - Exercício 28
 
-Escreva um programa que leia três valores inteiros e mostre-os em ordem decrescente.
+Faça um programa para entrar com 5 números e imprimir a média desses números.
 
 O programa deve assumir que a entrada e saída seja exatamente no formato dado nos exemplos a seguir. **Não adicione outras mensagens ou mude a capitalização das letras pois se fizer isso o teste não passará!**
 
@@ -25,11 +25,11 @@ O programa deve assumir que a entrada e saída seja exatamente no formato dado n
 
 Entrada:
 ```
-3 1 2
+1 2 3 4 5
 ```
 Saída:
 ```
-3 2 1
+3.00
 ```
 
 ---
@@ -38,11 +38,11 @@ Saída:
 
 Entrada:
 ```
-2 5 5
+-10 -20 -30 -40 -50
 ```
 Saída:
 ```
-5 5 2
+-30.00
 ```
 
 ---
@@ -51,9 +51,9 @@ Saída:
 
 Entrada:
 ```
-7 7 7
+4 4 4 4 4
 ```
 Saída:
 ```
-7 7 7
+4.00
 ```
