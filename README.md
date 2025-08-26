@@ -25,7 +25,11 @@ O programa deve assumir que a entrada e saída seja exatamente no formato dado n
 
 Entrada:
 ```
-1 2 3 4 5
+1
+2
+3
+4
+5
 ```
 Saída:
 ```
@@ -38,7 +42,11 @@ Saída:
 
 Entrada:
 ```
--10 -20 -30 -40 -50
+-10
+-20
+-30
+-40
+-50
 ```
 Saída:
 ```
@@ -51,7 +59,11 @@ Saída:
 
 Entrada:
 ```
-4 4 4 4 4
+4
+4
+4
+4
+4
 ```
 Saída:
 ```
